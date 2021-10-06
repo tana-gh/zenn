@@ -49,7 +49,7 @@ age=20
 
 [https://github.com/tana-gh/fpsample](https://github.com/tana-gh/fpsample)
 
-# C#編
+# C#
 
 C#はオブジェクト指向言語色が濃い言語です。
 再利用性という観点では、インターフェイスとDIを利用してゆくことになります。
